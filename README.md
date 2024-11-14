@@ -12,5 +12,5 @@ The game provides feedback on whether the guess is too high, too low, or correct
 - Reset functionality to start a new game.
 
 ## Demo
-- A live demo can be found [here](#https://anesiadis-th.github.io/GuessMyNumber/) (if you deploy it somewhere like GitHub Pages).
+- A live demo can be found [here](#https://anesiadis-th.github.io/GuessMyNumber/).
 
